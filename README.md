@@ -1,12 +1,12 @@
 # IP Tracker
 
-Web Application IP Tracker
+* Web Application IP Tracker
 
 ## Usage
 
 * Getting Started
 ```bush
-git clone https://github.com/
+git clone https://github.com/sickgod1/ip-tracker
 cd ip-tracker
 npm install
 
